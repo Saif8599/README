@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saif Muhamad
-- 👀 I’m interested in Javascript & Laravel
-- 🌱 I’m currently learning Database & Laravel
+- 👀 I’m interested in Javascript 
+- 🌱 I’m currently learning React & Next js
 - 📫 How to reach me http://saifmuhamad.com/
 
